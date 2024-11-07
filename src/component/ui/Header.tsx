@@ -1,8 +1,8 @@
 function Header() {
 	return (
 		<>
-			<header className="text-3xl font-bold">
-				<h1>Todo</h1>
+			<header className="bg-blue-500 text-white p-4 shadow-md">
+				<h1 className="text-3xl font-bold text-center">Todo</h1>
 			</header>
 		</>
 	);
